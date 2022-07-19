@@ -2,7 +2,7 @@
 A Nyancoin full node for Docker.
 
 
-###BUILDING:
+### BUILDING:
 
 # Clone the git repository
 git clone https://github.com/nyancoin-official/nyancoin-docker-node.git
