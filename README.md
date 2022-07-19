@@ -2,7 +2,7 @@
 A Nyancoin full node for Docker.
 
 
-###BUILDING:
+### BUILDING:
 
 ```bash
 # Clone the git repository
